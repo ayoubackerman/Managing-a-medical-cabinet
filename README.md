@@ -1,1 +1,1 @@
-# BIS
+The Appointment Management System is a JavaFX desktop application designed to efficiently handle and organize medical appointments (rendezvous). This application provides a comprehensive and intuitive interface for scheduling, tracking, and managing appointments, ensuring streamlined operations and improved patient management.
